@@ -1,0 +1,756 @@
+17:05:21,099  INFO main support.ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@735f7ae5: startup date [Thu Dec 10 17:05:21 YEKT 2015]; root of context hierarchy
+17:05:21,150  INFO main xml.XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [app-config.xml]
+17:06:24,688  INFO main support.PropertySourcesPlaceholderConfigurer:172 - Loading properties file from URL [file:/usr/local/bin/www/aro_number/config.properties]
+17:06:24,702  INFO main annotation.AutowiredAnnotationBeanPostProcessor:153 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+17:06:24,736  INFO main datasource.DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+17:06:24,851  INFO main offline.App:48 - Start programm in real mode
+17:06:24,853  INFO main offline.App:109 - Вводится нумерация, строка файла 1 in_start_range=73432141536 in_end_range=73432141537
+17:06:25,466  INFO main offline.App:135 - Запись в rang введена № 10905 73432141536 73432141537 1
+17:06:25,477  INFO main offline.App:164 - Запись rang 10905добавлена к присоединению ID=405
+17:06:25,477  INFO main offline.App:109 - Вводится нумерация, строка файла 2 in_start_range=73432141539 in_end_range=73432141540
+17:06:25,540  INFO main offline.App:135 - Запись в rang введена № 10906 73432141539 73432141540 1
+17:06:25,550  INFO main offline.App:164 - Запись rang 10906добавлена к присоединению ID=405
+17:06:25,550  INFO main offline.App:109 - Вводится нумерация, строка файла 3 in_start_range=73432141542 in_end_range=73432141543
+17:06:25,607  INFO main offline.App:135 - Запись в rang введена № 10907 73432141542 73432141543 1
+17:06:25,614  INFO main offline.App:164 - Запись rang 10907добавлена к присоединению ID=405
+17:06:25,614  INFO main offline.App:109 - Вводится нумерация, строка файла 4 in_start_range=73432141544 in_end_range=73432141544
+17:06:25,670  INFO main offline.App:135 - Запись в rang введена № 10908 73432141544 73432141544 1
+17:06:25,677  INFO main offline.App:164 - Запись rang 10908добавлена к присоединению ID=405
+17:06:25,678  INFO main offline.App:109 - Вводится нумерация, строка файла 5 in_start_range=73432141546 in_end_range=73432141549
+17:06:25,733  INFO main offline.App:135 - Запись в rang введена № 10909 73432141546 73432141549 1
+17:06:25,742  INFO main offline.App:164 - Запись rang 10909добавлена к присоединению ID=405
+17:06:25,743  INFO main offline.App:109 - Вводится нумерация, строка файла 6 in_start_range=73432141553 in_end_range=73432141553
+17:06:25,791  INFO main offline.App:135 - Запись в rang введена № 10910 73432141553 73432141553 1
+17:06:25,798  INFO main offline.App:164 - Запись rang 10910добавлена к присоединению ID=405
+17:06:25,798  INFO main offline.App:109 - Вводится нумерация, строка файла 7 in_start_range=73432141555 in_end_range=73432141556
+17:06:25,858  INFO main offline.App:135 - Запись в rang введена № 10911 73432141555 73432141556 1
+17:06:25,865  INFO main offline.App:164 - Запись rang 10911добавлена к присоединению ID=405
+17:06:25,865  INFO main offline.App:109 - Вводится нумерация, строка файла 8 in_start_range=73432141557 in_end_range=73432141559
+17:06:25,914  INFO main offline.App:135 - Запись в rang введена № 10912 73432141557 73432141559 1
+17:06:25,923  INFO main offline.App:164 - Запись rang 10912добавлена к присоединению ID=405
+17:06:25,923  INFO main offline.App:109 - Вводится нумерация, строка файла 9 in_start_range=73432141561 in_end_range=73432141561
+17:06:25,970  INFO main offline.App:135 - Запись в rang введена № 10913 73432141561 73432141561 1
+17:06:25,979  INFO main offline.App:164 - Запись rang 10913добавлена к присоединению ID=405
+17:06:25,979  INFO main offline.App:109 - Вводится нумерация, строка файла 10 in_start_range=73432141562 in_end_range=73432141562
+17:06:26,032  INFO main offline.App:135 - Запись в rang введена № 10914 73432141562 73432141562 1
+17:06:26,038  INFO main offline.App:164 - Запись rang 10914добавлена к присоединению ID=405
+17:06:26,038  INFO main offline.App:109 - Вводится нумерация, строка файла 11 in_start_range=73432141563 in_end_range=73432141563
+17:06:26,092  INFO main offline.App:135 - Запись в rang введена № 10915 73432141563 73432141563 1
+17:06:26,099  INFO main offline.App:164 - Запись rang 10915добавлена к присоединению ID=405
+17:06:26,099  INFO main offline.App:109 - Вводится нумерация, строка файла 12 in_start_range=73432141564 in_end_range=73432141565
+17:06:26,141  INFO main offline.App:135 - Запись в rang введена № 10916 73432141564 73432141565 1
+17:06:26,147  INFO main offline.App:164 - Запись rang 10916добавлена к присоединению ID=405
+17:06:26,147  INFO main offline.App:109 - Вводится нумерация, строка файла 13 in_start_range=73432141566 in_end_range=73432141567
+17:06:26,185  INFO main offline.App:135 - Запись в rang введена № 10917 73432141566 73432141567 1
+17:06:26,191  INFO main offline.App:164 - Запись rang 10917добавлена к присоединению ID=405
+17:06:26,191  INFO main offline.App:109 - Вводится нумерация, строка файла 14 in_start_range=73432141569 in_end_range=73432141571
+17:06:26,240  INFO main offline.App:135 - Запись в rang введена № 10918 73432141569 73432141571 1
+17:06:26,246  INFO main offline.App:164 - Запись rang 10918добавлена к присоединению ID=405
+17:06:26,246  INFO main offline.App:109 - Вводится нумерация, строка файла 15 in_start_range=73432141574 in_end_range=73432141574
+17:06:26,290  INFO main offline.App:135 - Запись в rang введена № 10919 73432141574 73432141574 1
+17:06:26,296  INFO main offline.App:164 - Запись rang 10919добавлена к присоединению ID=405
+17:06:26,296  INFO main offline.App:109 - Вводится нумерация, строка файла 16 in_start_range=73432141578 in_end_range=73432141578
+17:06:26,343  INFO main offline.App:135 - Запись в rang введена № 10920 73432141578 73432141578 1
+17:06:26,350  INFO main offline.App:164 - Запись rang 10920добавлена к присоединению ID=405
+17:06:26,350  INFO main offline.App:109 - Вводится нумерация, строка файла 17 in_start_range=73432141580 in_end_range=73432141581
+17:06:26,395  INFO main offline.App:135 - Запись в rang введена № 10921 73432141580 73432141581 1
+17:06:26,404  INFO main offline.App:164 - Запись rang 10921добавлена к присоединению ID=405
+17:06:26,404  INFO main offline.App:109 - Вводится нумерация, строка файла 18 in_start_range=73432141583 in_end_range=73432141584
+17:06:26,457  INFO main offline.App:135 - Запись в rang введена № 10922 73432141583 73432141584 1
+17:06:26,463  INFO main offline.App:164 - Запись rang 10922добавлена к присоединению ID=405
+17:06:26,463  INFO main offline.App:109 - Вводится нумерация, строка файла 19 in_start_range=73432141588 in_end_range=73432141590
+17:06:26,498  INFO main offline.App:135 - Запись в rang введена № 10923 73432141588 73432141590 1
+17:06:26,505  INFO main offline.App:164 - Запись rang 10923добавлена к присоединению ID=405
+17:06:26,506  INFO main offline.App:109 - Вводится нумерация, строка файла 20 in_start_range=73432141592 in_end_range=73432141593
+17:06:26,553  INFO main offline.App:135 - Запись в rang введена № 10924 73432141592 73432141593 1
+17:06:26,559  INFO main offline.App:164 - Запись rang 10924добавлена к присоединению ID=405
+17:06:26,559  INFO main offline.App:109 - Вводится нумерация, строка файла 21 in_start_range=73432141595 in_end_range=73432141595
+17:06:26,615  INFO main offline.App:135 - Запись в rang введена № 10925 73432141595 73432141595 1
+17:06:26,622  INFO main offline.App:164 - Запись rang 10925добавлена к присоединению ID=405
+17:06:26,622  INFO main offline.App:109 - Вводится нумерация, строка файла 22 in_start_range=73432141596 in_end_range=73432141596
+17:06:26,665  INFO main offline.App:135 - Запись в rang введена № 10926 73432141596 73432141596 1
+17:06:26,671  INFO main offline.App:164 - Запись rang 10926добавлена к присоединению ID=405
+17:06:26,671  INFO main offline.App:109 - Вводится нумерация, строка файла 23 in_start_range=73432141597 in_end_range=73432141598
+17:06:26,708  INFO main offline.App:135 - Запись в rang введена № 10927 73432141597 73432141598 1
+17:06:26,714  INFO main offline.App:164 - Запись rang 10927добавлена к присоединению ID=405
+17:06:26,714  INFO main offline.App:109 - Вводится нумерация, строка файла 24 in_start_range=73432141633 in_end_range=73432141634
+17:06:26,749  INFO main offline.App:135 - Запись в rang введена № 10928 73432141633 73432141634 1
+17:06:26,755  INFO main offline.App:164 - Запись rang 10928добавлена к присоединению ID=405
+17:06:26,756  INFO main offline.App:109 - Вводится нумерация, строка файла 25 in_start_range=73432141638 in_end_range=73432141638
+17:06:26,798  INFO main offline.App:135 - Запись в rang введена № 10929 73432141638 73432141638 1
+17:06:26,804  INFO main offline.App:164 - Запись rang 10929добавлена к присоединению ID=405
+17:06:26,804  INFO main offline.App:109 - Вводится нумерация, строка файла 26 in_start_range=73432141641 in_end_range=73432141644
+17:06:26,922  INFO main offline.App:135 - Запись в rang введена № 10930 73432141641 73432141644 1
+17:06:26,928  INFO main offline.App:164 - Запись rang 10930добавлена к присоединению ID=405
+17:06:26,928  INFO main offline.App:109 - Вводится нумерация, строка файла 27 in_start_range=73432141646 in_end_range=73432141646
+17:06:26,965  INFO main offline.App:135 - Запись в rang введена № 10931 73432141646 73432141646 1
+17:06:26,973  INFO main offline.App:164 - Запись rang 10931добавлена к присоединению ID=405
+17:06:26,973  INFO main offline.App:109 - Вводится нумерация, строка файла 28 in_start_range=73432141648 in_end_range=73432141651
+17:06:27,015  INFO main offline.App:135 - Запись в rang введена № 10932 73432141648 73432141651 1
+17:06:27,020  INFO main offline.App:164 - Запись rang 10932добавлена к присоединению ID=405
+17:06:27,021  INFO main offline.App:109 - Вводится нумерация, строка файла 29 in_start_range=73432141653 in_end_range=73432141653
+17:06:27,070  INFO main offline.App:135 - Запись в rang введена № 10933 73432141653 73432141653 1
+17:06:27,078  INFO main offline.App:164 - Запись rang 10933добавлена к присоединению ID=405
+17:06:27,078  INFO main offline.App:109 - Вводится нумерация, строка файла 30 in_start_range=73432141654 in_end_range=73432141654
+17:06:27,118  INFO main offline.App:135 - Запись в rang введена № 10934 73432141654 73432141654 1
+17:06:27,128  INFO main offline.App:164 - Запись rang 10934добавлена к присоединению ID=405
+17:06:27,129  INFO main offline.App:109 - Вводится нумерация, строка файла 31 in_start_range=73432141655 in_end_range=73432141655
+17:06:27,177  INFO main offline.App:135 - Запись в rang введена № 10935 73432141655 73432141655 1
+17:06:27,185  INFO main offline.App:164 - Запись rang 10935добавлена к присоединению ID=405
+17:06:27,186  INFO main offline.App:109 - Вводится нумерация, строка файла 32 in_start_range=73432141657 in_end_range=73432141657
+17:06:27,225  INFO main offline.App:135 - Запись в rang введена № 10936 73432141657 73432141657 1
+17:06:27,230  INFO main offline.App:164 - Запись rang 10936добавлена к присоединению ID=405
+17:06:27,231  INFO main offline.App:109 - Вводится нумерация, строка файла 33 in_start_range=73432141659 in_end_range=73432141662
+17:06:27,273  INFO main offline.App:135 - Запись в rang введена № 10937 73432141659 73432141662 1
+17:06:27,279  INFO main offline.App:164 - Запись rang 10937добавлена к присоединению ID=405
+17:06:27,279  INFO main offline.App:109 - Вводится нумерация, строка файла 34 in_start_range=73432141665 in_end_range=73432141665
+17:06:27,319  INFO main offline.App:135 - Запись в rang введена № 10938 73432141665 73432141665 1
+17:06:27,328  INFO main offline.App:164 - Запись rang 10938добавлена к присоединению ID=405
+17:06:27,328  INFO main offline.App:109 - Вводится нумерация, строка файла 35 in_start_range=73432141668 in_end_range=73432141668
+17:06:27,371  INFO main offline.App:135 - Запись в rang введена № 10939 73432141668 73432141668 1
+17:06:27,377  INFO main offline.App:164 - Запись rang 10939добавлена к присоединению ID=405
+17:06:27,377  INFO main offline.App:109 - Вводится нумерация, строка файла 36 in_start_range=73432141670 in_end_range=73432141670
+17:06:27,418  INFO main offline.App:135 - Запись в rang введена № 10940 73432141670 73432141670 1
+17:06:27,424  INFO main offline.App:164 - Запись rang 10940добавлена к присоединению ID=405
+17:06:27,425  INFO main offline.App:109 - Вводится нумерация, строка файла 37 in_start_range=73432141671 in_end_range=73432141672
+17:06:27,469  INFO main offline.App:135 - Запись в rang введена № 10941 73432141671 73432141672 1
+17:06:27,475  INFO main offline.App:164 - Запись rang 10941добавлена к присоединению ID=405
+17:06:27,475  INFO main offline.App:109 - Вводится нумерация, строка файла 38 in_start_range=73432141674 in_end_range=73432141676
+17:06:27,517  INFO main offline.App:135 - Запись в rang введена № 10942 73432141674 73432141676 1
+17:06:27,523  INFO main offline.App:164 - Запись rang 10942добавлена к присоединению ID=405
+17:06:27,523  INFO main offline.App:109 - Вводится нумерация, строка файла 39 in_start_range=73432141677 in_end_range=73432141677
+17:06:27,590  INFO main offline.App:135 - Запись в rang введена № 10943 73432141677 73432141677 1
+17:06:27,596  INFO main offline.App:164 - Запись rang 10943добавлена к присоединению ID=405
+17:06:27,597  INFO main offline.App:109 - Вводится нумерация, строка файла 40 in_start_range=73432141679 in_end_range=73432141680
+17:06:27,638  INFO main offline.App:135 - Запись в rang введена № 10944 73432141679 73432141680 1
+17:06:27,643  INFO main offline.App:164 - Запись rang 10944добавлена к присоединению ID=405
+17:06:27,644  INFO main offline.App:109 - Вводится нумерация, строка файла 41 in_start_range=73432141681 in_end_range=73432141681
+17:06:27,692  INFO main offline.App:135 - Запись в rang введена № 10945 73432141681 73432141681 1
+17:06:27,705  INFO main offline.App:164 - Запись rang 10945добавлена к присоединению ID=405
+17:06:27,705  INFO main offline.App:109 - Вводится нумерация, строка файла 42 in_start_range=73432141683 in_end_range=73432141688
+17:06:27,744  INFO main offline.App:135 - Запись в rang введена № 10946 73432141683 73432141688 1
+17:06:27,753  INFO main offline.App:164 - Запись rang 10946добавлена к присоединению ID=405
+17:06:27,753  INFO main offline.App:109 - Вводится нумерация, строка файла 43 in_start_range=73432141689 in_end_range=73432141690
+17:06:27,792  INFO main offline.App:135 - Запись в rang введена № 10947 73432141689 73432141690 1
+17:06:27,799  INFO main offline.App:164 - Запись rang 10947добавлена к присоединению ID=405
+17:06:27,800  INFO main offline.App:109 - Вводится нумерация, строка файла 44 in_start_range=73432141691 in_end_range=73432141693
+17:06:27,838  INFO main offline.App:135 - Запись в rang введена № 10948 73432141691 73432141693 1
+17:06:27,843  INFO main offline.App:164 - Запись rang 10948добавлена к присоединению ID=405
+17:06:27,843  INFO main offline.App:109 - Вводится нумерация, строка файла 45 in_start_range=73432141695 in_end_range=73432141695
+17:06:27,882  INFO main offline.App:135 - Запись в rang введена № 10949 73432141695 73432141695 1
+17:06:27,888  INFO main offline.App:164 - Запись rang 10949добавлена к присоединению ID=405
+17:06:27,888  INFO main offline.App:109 - Вводится нумерация, строка файла 46 in_start_range=73432141698 in_end_range=73432141698
+17:06:27,927  INFO main offline.App:135 - Запись в rang введена № 10950 73432141698 73432141698 1
+17:06:27,935  INFO main offline.App:164 - Запись rang 10950добавлена к присоединению ID=405
+17:06:27,935  INFO main offline.App:109 - Вводится нумерация, строка файла 47 in_start_range=73432141703 in_end_range=73432141703
+17:06:27,978  INFO main offline.App:135 - Запись в rang введена № 10951 73432141703 73432141703 1
+17:06:27,983  INFO main offline.App:164 - Запись rang 10951добавлена к присоединению ID=405
+17:06:27,983  INFO main offline.App:109 - Вводится нумерация, строка файла 48 in_start_range=73432141705 in_end_range=73432141706
+17:06:28,026  INFO main offline.App:135 - Запись в rang введена № 10952 73432141705 73432141706 1
+17:06:28,033  INFO main offline.App:164 - Запись rang 10952добавлена к присоединению ID=405
+17:06:28,035  INFO main offline.App:109 - Вводится нумерация, строка файла 49 in_start_range=73432141708 in_end_range=73432141708
+17:06:28,079  INFO main offline.App:135 - Запись в rang введена № 10953 73432141708 73432141708 1
+17:06:28,087  INFO main offline.App:164 - Запись rang 10953добавлена к присоединению ID=405
+17:06:28,087  INFO main offline.App:109 - Вводится нумерация, строка файла 50 in_start_range=73432141710 in_end_range=73432141710
+17:06:28,133  INFO main offline.App:135 - Запись в rang введена № 10954 73432141710 73432141710 1
+17:06:28,139  INFO main offline.App:164 - Запись rang 10954добавлена к присоединению ID=405
+17:06:28,139  INFO main offline.App:109 - Вводится нумерация, строка файла 51 in_start_range=73432141712 in_end_range=73432141715
+17:06:28,184  INFO main offline.App:135 - Запись в rang введена № 10955 73432141712 73432141715 1
+17:06:28,189  INFO main offline.App:164 - Запись rang 10955добавлена к присоединению ID=405
+17:06:28,190  INFO main offline.App:109 - Вводится нумерация, строка файла 52 in_start_range=73432141718 in_end_range=73432141720
+17:06:28,235  INFO main offline.App:135 - Запись в rang введена № 10956 73432141718 73432141720 1
+17:06:28,243  INFO main offline.App:164 - Запись rang 10956добавлена к присоединению ID=405
+17:06:28,243  INFO main offline.App:109 - Вводится нумерация, строка файла 53 in_start_range=73432141723 in_end_range=73432141723
+17:06:28,284  INFO main offline.App:135 - Запись в rang введена № 10957 73432141723 73432141723 1
+17:06:28,290  INFO main offline.App:164 - Запись rang 10957добавлена к присоединению ID=405
+17:06:28,290  INFO main offline.App:109 - Вводится нумерация, строка файла 54 in_start_range=73432141725 in_end_range=73432141725
+17:06:28,329  INFO main offline.App:135 - Запись в rang введена № 10958 73432141725 73432141725 1
+17:06:28,334  INFO main offline.App:164 - Запись rang 10958добавлена к присоединению ID=405
+17:06:28,334  INFO main offline.App:109 - Вводится нумерация, строка файла 55 in_start_range=73432141726 in_end_range=73432141726
+17:06:28,374  INFO main offline.App:135 - Запись в rang введена № 10959 73432141726 73432141726 1
+17:06:28,380  INFO main offline.App:164 - Запись rang 10959добавлена к присоединению ID=405
+17:06:28,381  INFO main offline.App:109 - Вводится нумерация, строка файла 56 in_start_range=73432141728 in_end_range=73432141728
+17:06:28,422  INFO main offline.App:135 - Запись в rang введена № 10960 73432141728 73432141728 1
+17:06:28,428  INFO main offline.App:164 - Запись rang 10960добавлена к присоединению ID=405
+17:06:28,428  INFO main offline.App:109 - Вводится нумерация, строка файла 57 in_start_range=73432141729 in_end_range=73432141729
+17:06:28,468  INFO main offline.App:135 - Запись в rang введена № 10961 73432141729 73432141729 1
+17:06:28,474  INFO main offline.App:164 - Запись rang 10961добавлена к присоединению ID=405
+17:06:28,474  INFO main offline.App:109 - Вводится нумерация, строка файла 58 in_start_range=73432141733 in_end_range=73432141733
+17:06:28,513  INFO main offline.App:135 - Запись в rang введена № 10962 73432141733 73432141733 1
+17:06:28,519  INFO main offline.App:164 - Запись rang 10962добавлена к присоединению ID=405
+17:06:28,520  INFO main offline.App:109 - Вводится нумерация, строка файла 59 in_start_range=73432141735 in_end_range=73432141735
+17:06:28,557  INFO main offline.App:135 - Запись в rang введена № 10963 73432141735 73432141735 1
+17:06:28,563  INFO main offline.App:164 - Запись rang 10963добавлена к присоединению ID=405
+17:06:28,563  INFO main offline.App:109 - Вводится нумерация, строка файла 60 in_start_range=73432141736 in_end_range=73432141737
+17:06:28,606  INFO main offline.App:135 - Запись в rang введена № 10964 73432141736 73432141737 1
+17:06:28,612  INFO main offline.App:164 - Запись rang 10964добавлена к присоединению ID=405
+17:06:28,612  INFO main offline.App:109 - Вводится нумерация, строка файла 61 in_start_range=73432141740 in_end_range=73432141741
+17:06:28,650  INFO main offline.App:135 - Запись в rang введена № 10965 73432141740 73432141741 1
+17:06:28,658  INFO main offline.App:164 - Запись rang 10965добавлена к присоединению ID=405
+17:06:28,658  INFO main offline.App:109 - Вводится нумерация, строка файла 62 in_start_range=73432141743 in_end_range=73432141743
+17:06:28,710  INFO main offline.App:135 - Запись в rang введена № 10966 73432141743 73432141743 1
+17:06:28,715  INFO main offline.App:164 - Запись rang 10966добавлена к присоединению ID=405
+17:06:28,718  INFO main offline.App:109 - Вводится нумерация, строка файла 63 in_start_range=73432141745 in_end_range=73432141745
+17:06:28,759  INFO main offline.App:135 - Запись в rang введена № 10967 73432141745 73432141745 1
+17:06:28,765  INFO main offline.App:164 - Запись rang 10967добавлена к присоединению ID=405
+17:06:28,765  INFO main offline.App:109 - Вводится нумерация, строка файла 64 in_start_range=73432141747 in_end_range=73432141747
+17:06:28,809  INFO main offline.App:135 - Запись в rang введена № 10968 73432141747 73432141747 1
+17:06:28,817  INFO main offline.App:164 - Запись rang 10968добавлена к присоединению ID=405
+17:06:28,817  INFO main offline.App:109 - Вводится нумерация, строка файла 65 in_start_range=73432141748 in_end_range=73432141748
+17:06:28,859  INFO main offline.App:135 - Запись в rang введена № 10969 73432141748 73432141748 1
+17:06:28,866  INFO main offline.App:164 - Запись rang 10969добавлена к присоединению ID=405
+17:06:28,866  INFO main offline.App:109 - Вводится нумерация, строка файла 66 in_start_range=73432141749 in_end_range=73432141749
+17:06:28,909  INFO main offline.App:135 - Запись в rang введена № 10970 73432141749 73432141749 1
+17:06:28,916  INFO main offline.App:164 - Запись rang 10970добавлена к присоединению ID=405
+17:06:28,916  INFO main offline.App:109 - Вводится нумерация, строка файла 67 in_start_range=73432141750 in_end_range=73432141751
+17:06:28,962  INFO main offline.App:135 - Запись в rang введена № 10971 73432141750 73432141751 1
+17:06:28,969  INFO main offline.App:164 - Запись rang 10971добавлена к присоединению ID=405
+17:06:28,969  INFO main offline.App:109 - Вводится нумерация, строка файла 68 in_start_range=73432141753 in_end_range=73432141754
+17:06:29,009  INFO main offline.App:135 - Запись в rang введена № 10972 73432141753 73432141754 1
+17:06:29,017  INFO main offline.App:164 - Запись rang 10972добавлена к присоединению ID=405
+17:06:29,018  INFO main offline.App:109 - Вводится нумерация, строка файла 69 in_start_range=73432141756 in_end_range=73432141756
+17:06:29,061  INFO main offline.App:135 - Запись в rang введена № 10973 73432141756 73432141756 1
+17:06:29,067  INFO main offline.App:164 - Запись rang 10973добавлена к присоединению ID=405
+17:06:29,068  INFO main offline.App:109 - Вводится нумерация, строка файла 70 in_start_range=73432141759 in_end_range=73432141759
+17:06:29,109  INFO main offline.App:135 - Запись в rang введена № 10974 73432141759 73432141759 1
+17:06:29,518  INFO main offline.App:164 - Запись rang 10974добавлена к присоединению ID=405
+17:06:29,526  INFO main offline.App:109 - Вводится нумерация, строка файла 71 in_start_range=73432141760 in_end_range=73432141760
+17:06:29,579  INFO main offline.App:135 - Запись в rang введена № 10975 73432141760 73432141760 1
+17:06:29,586  INFO main offline.App:164 - Запись rang 10975добавлена к присоединению ID=405
+17:06:29,586  INFO main offline.App:109 - Вводится нумерация, строка файла 72 in_start_range=73432141761 in_end_range=73432141761
+17:06:29,628  INFO main offline.App:135 - Запись в rang введена № 10976 73432141761 73432141761 1
+17:06:29,633  INFO main offline.App:164 - Запись rang 10976добавлена к присоединению ID=405
+17:06:29,633  INFO main offline.App:109 - Вводится нумерация, строка файла 73 in_start_range=73432141763 in_end_range=73432141764
+17:06:29,675  INFO main offline.App:135 - Запись в rang введена № 10977 73432141763 73432141764 1
+17:06:29,681  INFO main offline.App:164 - Запись rang 10977добавлена к присоединению ID=405
+17:06:29,681  INFO main offline.App:109 - Вводится нумерация, строка файла 74 in_start_range=73432141765 in_end_range=73432141767
+17:06:29,721  INFO main offline.App:135 - Запись в rang введена № 10978 73432141765 73432141767 1
+17:06:29,727  INFO main offline.App:164 - Запись rang 10978добавлена к присоединению ID=405
+17:06:29,727  INFO main offline.App:109 - Вводится нумерация, строка файла 75 in_start_range=73432141768 in_end_range=73432141768
+17:06:29,769  INFO main offline.App:135 - Запись в rang введена № 10979 73432141768 73432141768 1
+17:06:29,777  INFO main offline.App:164 - Запись rang 10979добавлена к присоединению ID=405
+17:06:29,777  INFO main offline.App:109 - Вводится нумерация, строка файла 76 in_start_range=73432141770 in_end_range=73432141770
+17:06:29,816  INFO main offline.App:135 - Запись в rang введена № 10980 73432141770 73432141770 1
+17:06:29,821  INFO main offline.App:164 - Запись rang 10980добавлена к присоединению ID=405
+17:06:29,821  INFO main offline.App:109 - Вводится нумерация, строка файла 77 in_start_range=73432141772 in_end_range=73432141773
+17:06:29,875  INFO main offline.App:135 - Запись в rang введена № 10981 73432141772 73432141773 1
+17:06:29,882  INFO main offline.App:164 - Запись rang 10981добавлена к присоединению ID=405
+17:06:29,883  INFO main offline.App:109 - Вводится нумерация, строка файла 78 in_start_range=73432141774 in_end_range=73432141774
+17:06:29,925  INFO main offline.App:135 - Запись в rang введена № 10982 73432141774 73432141774 1
+17:06:29,930  INFO main offline.App:164 - Запись rang 10982добавлена к присоединению ID=405
+17:06:29,931  INFO main offline.App:109 - Вводится нумерация, строка файла 79 in_start_range=73432141775 in_end_range=73432141777
+17:06:29,971  INFO main offline.App:135 - Запись в rang введена № 10983 73432141775 73432141777 1
+17:06:29,977  INFO main offline.App:164 - Запись rang 10983добавлена к присоединению ID=405
+17:06:29,977  INFO main offline.App:109 - Вводится нумерация, строка файла 80 in_start_range=73432141778 in_end_range=73432141778
+17:06:30,015  INFO main offline.App:135 - Запись в rang введена № 10984 73432141778 73432141778 1
+17:06:30,021  INFO main offline.App:164 - Запись rang 10984добавлена к присоединению ID=405
+17:06:30,021  INFO main offline.App:109 - Вводится нумерация, строка файла 81 in_start_range=73432141780 in_end_range=73432141780
+17:06:30,065  INFO main offline.App:135 - Запись в rang введена № 10985 73432141780 73432141780 1
+17:06:30,071  INFO main offline.App:164 - Запись rang 10985добавлена к присоединению ID=405
+17:06:30,071  INFO main offline.App:109 - Вводится нумерация, строка файла 82 in_start_range=73432141782 in_end_range=73432141783
+17:06:30,108  INFO main offline.App:135 - Запись в rang введена № 10986 73432141782 73432141783 1
+17:06:30,113  INFO main offline.App:164 - Запись rang 10986добавлена к присоединению ID=405
+17:06:30,113  INFO main offline.App:109 - Вводится нумерация, строка файла 83 in_start_range=73432141784 in_end_range=73432141784
+17:06:30,147  INFO main offline.App:135 - Запись в rang введена № 10987 73432141784 73432141784 1
+17:06:30,153  INFO main offline.App:164 - Запись rang 10987добавлена к присоединению ID=405
+17:06:30,154  INFO main offline.App:109 - Вводится нумерация, строка файла 84 in_start_range=73432141787 in_end_range=73432141790
+17:06:30,191  INFO main offline.App:135 - Запись в rang введена № 10988 73432141787 73432141790 1
+17:06:30,197  INFO main offline.App:164 - Запись rang 10988добавлена к присоединению ID=405
+17:06:30,197  INFO main offline.App:109 - Вводится нумерация, строка файла 85 in_start_range=73432141792 in_end_range=73432141794
+17:06:30,235  INFO main offline.App:135 - Запись в rang введена № 10989 73432141792 73432141794 1
+17:06:30,242  INFO main offline.App:164 - Запись rang 10989добавлена к присоединению ID=405
+17:06:30,243  INFO main offline.App:109 - Вводится нумерация, строка файла 86 in_start_range=73432141795 in_end_range=73432141795
+17:06:30,283  INFO main offline.App:135 - Запись в rang введена № 10990 73432141795 73432141795 1
+17:06:30,291  INFO main offline.App:164 - Запись rang 10990добавлена к присоединению ID=405
+17:06:30,292  INFO main offline.App:109 - Вводится нумерация, строка файла 87 in_start_range=73432141797 in_end_range=73432141798
+17:06:30,331  INFO main offline.App:135 - Запись в rang введена № 10991 73432141797 73432141798 1
+17:06:30,336  INFO main offline.App:164 - Запись rang 10991добавлена к присоединению ID=405
+17:06:30,336  INFO main offline.App:109 - Вводится нумерация, строка файла 88 in_start_range=73432141800 in_end_range=73432141801
+17:06:30,371  INFO main offline.App:135 - Запись в rang введена № 10992 73432141800 73432141801 1
+17:06:30,376  INFO main offline.App:164 - Запись rang 10992добавлена к присоединению ID=405
+17:06:30,376  INFO main offline.App:109 - Вводится нумерация, строка файла 89 in_start_range=73432141804 in_end_range=73432141804
+17:06:30,416  INFO main offline.App:135 - Запись в rang введена № 10993 73432141804 73432141804 1
+17:06:30,421  INFO main offline.App:164 - Запись rang 10993добавлена к присоединению ID=405
+17:06:30,422  INFO main offline.App:109 - Вводится нумерация, строка файла 90 in_start_range=73432141806 in_end_range=73432141806
+17:06:30,462  INFO main offline.App:135 - Запись в rang введена № 10994 73432141806 73432141806 1
+17:06:30,467  INFO main offline.App:164 - Запись rang 10994добавлена к присоединению ID=405
+17:06:30,467  INFO main offline.App:109 - Вводится нумерация, строка файла 91 in_start_range=73432141812 in_end_range=73432141812
+17:06:30,502  INFO main offline.App:135 - Запись в rang введена № 10995 73432141812 73432141812 1
+17:06:30,508  INFO main offline.App:164 - Запись rang 10995добавлена к присоединению ID=405
+17:06:30,509  INFO main offline.App:109 - Вводится нумерация, строка файла 92 in_start_range=73432141813 in_end_range=73432141813
+17:06:30,546  INFO main offline.App:135 - Запись в rang введена № 10996 73432141813 73432141813 1
+17:06:30,552  INFO main offline.App:164 - Запись rang 10996добавлена к присоединению ID=405
+17:06:30,552  INFO main offline.App:109 - Вводится нумерация, строка файла 93 in_start_range=73432141814 in_end_range=73432141814
+17:06:30,590  INFO main offline.App:135 - Запись в rang введена № 10997 73432141814 73432141814 1
+17:06:30,595  INFO main offline.App:164 - Запись rang 10997добавлена к присоединению ID=405
+17:06:30,595  INFO main offline.App:109 - Вводится нумерация, строка файла 94 in_start_range=73432141817 in_end_range=73432141818
+17:06:30,633  INFO main offline.App:135 - Запись в rang введена № 10998 73432141817 73432141818 1
+17:06:30,638  INFO main offline.App:164 - Запись rang 10998добавлена к присоединению ID=405
+17:06:30,638  INFO main offline.App:109 - Вводится нумерация, строка файла 95 in_start_range=73432141822 in_end_range=73432141822
+17:06:30,687  INFO main offline.App:135 - Запись в rang введена № 10999 73432141822 73432141822 1
+17:06:30,691  INFO main offline.App:164 - Запись rang 10999добавлена к присоединению ID=405
+17:06:30,692  INFO main offline.App:109 - Вводится нумерация, строка файла 96 in_start_range=73432141824 in_end_range=73432141825
+17:06:30,726  INFO main offline.App:135 - Запись в rang введена № 11000 73432141824 73432141825 1
+17:06:30,731  INFO main offline.App:164 - Запись rang 11000добавлена к присоединению ID=405
+17:06:30,731  INFO main offline.App:109 - Вводится нумерация, строка файла 97 in_start_range=73432141826 in_end_range=73432141826
+17:06:30,770  INFO main offline.App:135 - Запись в rang введена № 11001 73432141826 73432141826 1
+17:06:30,775  INFO main offline.App:164 - Запись rang 11001добавлена к присоединению ID=405
+17:06:30,775  INFO main offline.App:109 - Вводится нумерация, строка файла 98 in_start_range=73432141828 in_end_range=73432141828
+17:06:30,814  INFO main offline.App:135 - Запись в rang введена № 11002 73432141828 73432141828 1
+17:06:30,821  INFO main offline.App:164 - Запись rang 11002добавлена к присоединению ID=405
+17:06:30,821  INFO main offline.App:109 - Вводится нумерация, строка файла 99 in_start_range=73432141830 in_end_range=73432141831
+17:06:30,861  INFO main offline.App:135 - Запись в rang введена № 11003 73432141830 73432141831 1
+17:06:30,865  INFO main offline.App:164 - Запись rang 11003добавлена к присоединению ID=405
+17:06:30,866  INFO main offline.App:109 - Вводится нумерация, строка файла 100 in_start_range=73432141835 in_end_range=73432141835
+17:06:30,911  INFO main offline.App:135 - Запись в rang введена № 11004 73432141835 73432141835 1
+17:06:30,917  INFO main offline.App:164 - Запись rang 11004добавлена к присоединению ID=405
+17:06:30,918  INFO main offline.App:109 - Вводится нумерация, строка файла 101 in_start_range=73432141837 in_end_range=73432141837
+17:06:30,956  INFO main offline.App:135 - Запись в rang введена № 11005 73432141837 73432141837 1
+17:06:30,962  INFO main offline.App:164 - Запись rang 11005добавлена к присоединению ID=405
+17:06:30,962  INFO main offline.App:109 - Вводится нумерация, строка файла 102 in_start_range=73432141839 in_end_range=73432141840
+17:06:31,004  INFO main offline.App:135 - Запись в rang введена № 11006 73432141839 73432141840 1
+17:06:31,009  INFO main offline.App:164 - Запись rang 11006добавлена к присоединению ID=405
+17:06:31,009  INFO main offline.App:109 - Вводится нумерация, строка файла 103 in_start_range=73432141842 in_end_range=73432141842
+17:06:31,057  INFO main offline.App:135 - Запись в rang введена № 11007 73432141842 73432141842 1
+17:06:31,063  INFO main offline.App:164 - Запись rang 11007добавлена к присоединению ID=405
+17:06:31,063  INFO main offline.App:109 - Вводится нумерация, строка файла 104 in_start_range=73432141843 in_end_range=73432141843
+17:06:31,099  INFO main offline.App:135 - Запись в rang введена № 11008 73432141843 73432141843 1
+17:06:31,104  INFO main offline.App:164 - Запись rang 11008добавлена к присоединению ID=405
+17:06:31,104  INFO main offline.App:109 - Вводится нумерация, строка файла 105 in_start_range=73432141846 in_end_range=73432141846
+17:06:31,145  INFO main offline.App:135 - Запись в rang введена № 11009 73432141846 73432141846 1
+17:06:31,152  INFO main offline.App:164 - Запись rang 11009добавлена к присоединению ID=405
+17:06:31,153  INFO main offline.App:109 - Вводится нумерация, строка файла 106 in_start_range=73432141849 in_end_range=73432141849
+17:06:31,188  INFO main offline.App:135 - Запись в rang введена № 11010 73432141849 73432141849 1
+17:06:31,194  INFO main offline.App:164 - Запись rang 11010добавлена к присоединению ID=405
+17:06:31,194  INFO main offline.App:109 - Вводится нумерация, строка файла 107 in_start_range=73432141850 in_end_range=73432141850
+17:06:31,227  INFO main offline.App:135 - Запись в rang введена № 11011 73432141850 73432141850 1
+17:06:31,231  INFO main offline.App:164 - Запись rang 11011добавлена к присоединению ID=405
+17:06:31,231  INFO main offline.App:109 - Вводится нумерация, строка файла 108 in_start_range=73432141854 in_end_range=73432141854
+17:06:31,265  INFO main offline.App:135 - Запись в rang введена № 11012 73432141854 73432141854 1
+17:06:31,270  INFO main offline.App:164 - Запись rang 11012добавлена к присоединению ID=405
+17:06:31,271  INFO main offline.App:109 - Вводится нумерация, строка файла 109 in_start_range=73432141856 in_end_range=73432141856
+17:06:31,312  INFO main offline.App:135 - Запись в rang введена № 11013 73432141856 73432141856 1
+17:06:31,317  INFO main offline.App:164 - Запись rang 11013добавлена к присоединению ID=405
+17:06:31,318  INFO main offline.App:109 - Вводится нумерация, строка файла 110 in_start_range=73432141859 in_end_range=73432141859
+17:06:31,356  INFO main offline.App:135 - Запись в rang введена № 11014 73432141859 73432141859 1
+17:06:31,363  INFO main offline.App:164 - Запись rang 11014добавлена к присоединению ID=405
+17:06:31,363  INFO main offline.App:109 - Вводится нумерация, строка файла 111 in_start_range=73432141861 in_end_range=73432141862
+17:06:31,406  INFO main offline.App:135 - Запись в rang введена № 11015 73432141861 73432141862 1
+17:06:31,413  INFO main offline.App:164 - Запись rang 11015добавлена к присоединению ID=405
+17:06:31,413  INFO main offline.App:109 - Вводится нумерация, строка файла 112 in_start_range=73432141864 in_end_range=73432141864
+17:06:31,451  INFO main offline.App:135 - Запись в rang введена № 11016 73432141864 73432141864 1
+17:06:31,457  INFO main offline.App:164 - Запись rang 11016добавлена к присоединению ID=405
+17:06:31,458  INFO main offline.App:109 - Вводится нумерация, строка файла 113 in_start_range=73432141867 in_end_range=73432141867
+17:06:31,501  INFO main offline.App:135 - Запись в rang введена № 11017 73432141867 73432141867 1
+17:06:31,510  INFO main offline.App:164 - Запись rang 11017добавлена к присоединению ID=405
+17:06:31,510  INFO main offline.App:109 - Вводится нумерация, строка файла 114 in_start_range=73432141874 in_end_range=73432141874
+17:06:31,555  INFO main offline.App:135 - Запись в rang введена № 11018 73432141874 73432141874 1
+17:06:31,561  INFO main offline.App:164 - Запись rang 11018добавлена к присоединению ID=405
+17:06:31,561  INFO main offline.App:109 - Вводится нумерация, строка файла 115 in_start_range=73432141876 in_end_range=73432141876
+17:06:31,596  INFO main offline.App:135 - Запись в rang введена № 11019 73432141876 73432141876 1
+17:06:31,602  INFO main offline.App:164 - Запись rang 11019добавлена к присоединению ID=405
+17:06:31,602  INFO main offline.App:109 - Вводится нумерация, строка файла 116 in_start_range=73432141878 in_end_range=73432141878
+17:06:31,640  INFO main offline.App:135 - Запись в rang введена № 11020 73432141878 73432141878 1
+17:06:31,650  INFO main offline.App:164 - Запись rang 11020добавлена к присоединению ID=405
+17:06:31,650  INFO main offline.App:109 - Вводится нумерация, строка файла 117 in_start_range=73432141882 in_end_range=73432141883
+17:06:31,694  INFO main offline.App:135 - Запись в rang введена № 11021 73432141882 73432141883 1
+17:06:31,699  INFO main offline.App:164 - Запись rang 11021добавлена к присоединению ID=405
+17:06:31,699  INFO main offline.App:109 - Вводится нумерация, строка файла 118 in_start_range=73432141884 in_end_range=73432141884
+17:06:31,732  INFO main offline.App:135 - Запись в rang введена № 11022 73432141884 73432141884 1
+17:06:31,736  INFO main offline.App:164 - Запись rang 11022добавлена к присоединению ID=405
+17:06:31,736  INFO main offline.App:109 - Вводится нумерация, строка файла 119 in_start_range=73432141887 in_end_range=73432141887
+17:06:31,768  INFO main offline.App:135 - Запись в rang введена № 11023 73432141887 73432141887 1
+17:06:31,772  INFO main offline.App:164 - Запись rang 11023добавлена к присоединению ID=405
+17:06:31,773  INFO main offline.App:109 - Вводится нумерация, строка файла 120 in_start_range=73432141889 in_end_range=73432141890
+17:06:31,806  INFO main offline.App:135 - Запись в rang введена № 11024 73432141889 73432141890 1
+17:06:31,811  INFO main offline.App:164 - Запись rang 11024добавлена к присоединению ID=405
+17:06:31,811  INFO main offline.App:109 - Вводится нумерация, строка файла 121 in_start_range=73432141894 in_end_range=73432141894
+17:06:31,853  INFO main offline.App:135 - Запись в rang введена № 11025 73432141894 73432141894 1
+17:06:31,857  INFO main offline.App:164 - Запись rang 11025добавлена к присоединению ID=405
+17:06:31,858  INFO main offline.App:109 - Вводится нумерация, строка файла 122 in_start_range=73432141896 in_end_range=73432141896
+17:06:31,896  INFO main offline.App:135 - Запись в rang введена № 11026 73432141896 73432141896 1
+17:06:31,901  INFO main offline.App:164 - Запись rang 11026добавлена к присоединению ID=405
+17:06:31,902  INFO main offline.App:109 - Вводится нумерация, строка файла 123 in_start_range=73432141898 in_end_range=73432141899
+17:06:31,945  INFO main offline.App:135 - Запись в rang введена № 11027 73432141898 73432141899 1
+17:06:31,951  INFO main offline.App:164 - Запись rang 11027добавлена к присоединению ID=405
+17:06:31,951  INFO main offline.App:109 - Вводится нумерация, строка файла 124 in_start_range=73432141901 in_end_range=73432141901
+17:06:31,990  INFO main offline.App:135 - Запись в rang введена № 11028 73432141901 73432141901 1
+17:06:31,994  INFO main offline.App:164 - Запись rang 11028добавлена к присоединению ID=405
+17:06:32,000  INFO main offline.App:109 - Вводится нумерация, строка файла 125 in_start_range=73432141906 in_end_range=73432141907
+17:06:32,038  INFO main offline.App:135 - Запись в rang введена № 11029 73432141906 73432141907 1
+17:06:32,043  INFO main offline.App:164 - Запись rang 11029добавлена к присоединению ID=405
+17:06:32,043  INFO main offline.App:109 - Вводится нумерация, строка файла 126 in_start_range=73432141909 in_end_range=73432141909
+17:06:32,075  INFO main offline.App:135 - Запись в rang введена № 11030 73432141909 73432141909 1
+17:06:32,081  INFO main offline.App:164 - Запись rang 11030добавлена к присоединению ID=405
+17:06:32,081  INFO main offline.App:109 - Вводится нумерация, строка файла 127 in_start_range=73432141910 in_end_range=73432141910
+17:06:32,130  INFO main offline.App:135 - Запись в rang введена № 11031 73432141910 73432141910 1
+17:06:32,135  INFO main offline.App:164 - Запись rang 11031добавлена к присоединению ID=405
+17:06:32,135  INFO main offline.App:109 - Вводится нумерация, строка файла 128 in_start_range=73432141912 in_end_range=73432141912
+17:06:32,175  INFO main offline.App:135 - Запись в rang введена № 11032 73432141912 73432141912 1
+17:06:32,182  INFO main offline.App:164 - Запись rang 11032добавлена к присоединению ID=405
+17:06:32,182  INFO main offline.App:109 - Вводится нумерация, строка файла 129 in_start_range=73432141914 in_end_range=73432141914
+17:06:32,238  INFO main offline.App:135 - Запись в rang введена № 11033 73432141914 73432141914 1
+17:06:32,244  INFO main offline.App:164 - Запись rang 11033добавлена к присоединению ID=405
+17:06:32,244  INFO main offline.App:109 - Вводится нумерация, строка файла 130 in_start_range=73432141915 in_end_range=73432141915
+17:06:32,296  INFO main offline.App:135 - Запись в rang введена № 11034 73432141915 73432141915 1
+17:06:32,300  INFO main offline.App:164 - Запись rang 11034добавлена к присоединению ID=405
+17:06:32,300  INFO main offline.App:109 - Вводится нумерация, строка файла 131 in_start_range=73432141918 in_end_range=73432141920
+17:06:32,340  INFO main offline.App:135 - Запись в rang введена № 11035 73432141918 73432141920 1
+17:06:32,344  INFO main offline.App:164 - Запись rang 11035добавлена к присоединению ID=405
+17:06:32,345  INFO main offline.App:109 - Вводится нумерация, строка файла 132 in_start_range=73432141921 in_end_range=73432141921
+17:06:32,383  INFO main offline.App:135 - Запись в rang введена № 11036 73432141921 73432141921 1
+17:06:32,388  INFO main offline.App:164 - Запись rang 11036добавлена к присоединению ID=405
+17:06:32,388  INFO main offline.App:109 - Вводится нумерация, строка файла 133 in_start_range=73432141922 in_end_range=73432141922
+17:06:32,443  INFO main offline.App:135 - Запись в rang введена № 11037 73432141922 73432141922 1
+17:06:32,449  INFO main offline.App:164 - Запись rang 11037добавлена к присоединению ID=405
+17:06:32,449  INFO main offline.App:109 - Вводится нумерация, строка файла 134 in_start_range=73432141925 in_end_range=73432141926
+17:06:32,492  INFO main offline.App:135 - Запись в rang введена № 11038 73432141925 73432141926 1
+17:06:32,498  INFO main offline.App:164 - Запись rang 11038добавлена к присоединению ID=405
+17:06:32,498  INFO main offline.App:109 - Вводится нумерация, строка файла 135 in_start_range=73432141929 in_end_range=73432141929
+17:06:32,533  INFO main offline.App:135 - Запись в rang введена № 11039 73432141929 73432141929 1
+17:06:32,538  INFO main offline.App:164 - Запись rang 11039добавлена к присоединению ID=405
+17:06:32,538  INFO main offline.App:109 - Вводится нумерация, строка файла 136 in_start_range=73432141931 in_end_range=73432141931
+17:06:32,583  INFO main offline.App:135 - Запись в rang введена № 11040 73432141931 73432141931 1
+17:06:32,589  INFO main offline.App:164 - Запись rang 11040добавлена к присоединению ID=405
+17:06:32,589  INFO main offline.App:109 - Вводится нумерация, строка файла 137 in_start_range=73432141934 in_end_range=73432141934
+17:06:32,626  INFO main offline.App:135 - Запись в rang введена № 11041 73432141934 73432141934 1
+17:06:32,631  INFO main offline.App:164 - Запись rang 11041добавлена к присоединению ID=405
+17:06:32,631  INFO main offline.App:109 - Вводится нумерация, строка файла 138 in_start_range=73432141936 in_end_range=73432141937
+17:06:32,670  INFO main offline.App:135 - Запись в rang введена № 11042 73432141936 73432141937 1
+17:06:32,674  INFO main offline.App:164 - Запись rang 11042добавлена к присоединению ID=405
+17:06:32,674  INFO main offline.App:109 - Вводится нумерация, строка файла 139 in_start_range=73432141940 in_end_range=73432141940
+17:06:32,720  INFO main offline.App:135 - Запись в rang введена № 11043 73432141940 73432141940 1
+17:06:32,724  INFO main offline.App:164 - Запись rang 11043добавлена к присоединению ID=405
+17:06:32,725  INFO main offline.App:109 - Вводится нумерация, строка файла 140 in_start_range=73432141942 in_end_range=73432141942
+17:06:32,763  INFO main offline.App:135 - Запись в rang введена № 11044 73432141942 73432141942 1
+17:06:32,767  INFO main offline.App:164 - Запись rang 11044добавлена к присоединению ID=405
+17:06:32,767  INFO main offline.App:109 - Вводится нумерация, строка файла 141 in_start_range=73432141945 in_end_range=73432141945
+17:06:32,803  INFO main offline.App:135 - Запись в rang введена № 11045 73432141945 73432141945 1
+17:06:32,807  INFO main offline.App:164 - Запись rang 11045добавлена к присоединению ID=405
+17:06:32,807  INFO main offline.App:109 - Вводится нумерация, строка файла 142 in_start_range=73432141946 in_end_range=73432141946
+17:06:32,853  INFO main offline.App:135 - Запись в rang введена № 11046 73432141946 73432141946 1
+17:06:32,859  INFO main offline.App:164 - Запись rang 11046добавлена к присоединению ID=405
+17:06:32,859  INFO main offline.App:109 - Вводится нумерация, строка файла 143 in_start_range=73432141947 in_end_range=73432141947
+17:06:32,898  INFO main offline.App:135 - Запись в rang введена № 11047 73432141947 73432141947 1
+17:06:32,903  INFO main offline.App:164 - Запись rang 11047добавлена к присоединению ID=405
+17:06:32,903  INFO main offline.App:109 - Вводится нумерация, строка файла 144 in_start_range=73432141950 in_end_range=73432141950
+17:06:32,942  INFO main offline.App:135 - Запись в rang введена № 11048 73432141950 73432141950 1
+17:06:32,947  INFO main offline.App:164 - Запись rang 11048добавлена к присоединению ID=405
+17:06:32,947  INFO main offline.App:109 - Вводится нумерация, строка файла 145 in_start_range=73432141954 in_end_range=73432141954
+17:06:33,007  INFO main offline.App:135 - Запись в rang введена № 11049 73432141954 73432141954 1
+17:06:33,013  INFO main offline.App:164 - Запись rang 11049добавлена к присоединению ID=405
+17:06:33,013  INFO main offline.App:109 - Вводится нумерация, строка файла 146 in_start_range=73432141955 in_end_range=73432141955
+17:06:33,050  INFO main offline.App:135 - Запись в rang введена № 11050 73432141955 73432141955 1
+17:06:33,055  INFO main offline.App:164 - Запись rang 11050добавлена к присоединению ID=405
+17:06:33,055  INFO main offline.App:109 - Вводится нумерация, строка файла 147 in_start_range=73432141959 in_end_range=73432141959
+17:06:33,095  INFO main offline.App:135 - Запись в rang введена № 11051 73432141959 73432141959 1
+17:06:33,099  INFO main offline.App:164 - Запись rang 11051добавлена к присоединению ID=405
+17:06:33,100  INFO main offline.App:109 - Вводится нумерация, строка файла 148 in_start_range=73432141960 in_end_range=73432141960
+17:06:33,152  INFO main offline.App:135 - Запись в rang введена № 11052 73432141960 73432141960 1
+17:06:33,156  INFO main offline.App:164 - Запись rang 11052добавлена к присоединению ID=405
+17:06:33,156  INFO main offline.App:109 - Вводится нумерация, строка файла 149 in_start_range=73432141964 in_end_range=73432141964
+17:06:33,193  INFO main offline.App:135 - Запись в rang введена № 11053 73432141964 73432141964 1
+17:06:33,198  INFO main offline.App:164 - Запись rang 11053добавлена к присоединению ID=405
+17:06:33,198  INFO main offline.App:109 - Вводится нумерация, строка файла 150 in_start_range=73432141966 in_end_range=73432141968
+17:06:33,237  INFO main offline.App:135 - Запись в rang введена № 11054 73432141966 73432141968 1
+17:06:33,241  INFO main offline.App:164 - Запись rang 11054добавлена к присоединению ID=405
+17:06:33,241  INFO main offline.App:109 - Вводится нумерация, строка файла 151 in_start_range=73432141970 in_end_range=73432141970
+17:06:33,284  INFO main offline.App:135 - Запись в rang введена № 11055 73432141970 73432141970 1
+17:06:33,289  INFO main offline.App:164 - Запись rang 11055добавлена к присоединению ID=405
+17:06:33,289  INFO main offline.App:109 - Вводится нумерация, строка файла 152 in_start_range=73432141971 in_end_range=73432141971
+17:06:33,321  INFO main offline.App:135 - Запись в rang введена № 11056 73432141971 73432141971 1
+17:06:33,325  INFO main offline.App:164 - Запись rang 11056добавлена к присоединению ID=405
+17:06:33,325  INFO main offline.App:109 - Вводится нумерация, строка файла 153 in_start_range=73432141972 in_end_range=73432141972
+17:06:33,363  INFO main offline.App:135 - Запись в rang введена № 11057 73432141972 73432141972 1
+17:06:33,366  INFO main offline.App:164 - Запись rang 11057добавлена к присоединению ID=405
+17:06:33,366  INFO main offline.App:109 - Вводится нумерация, строка файла 154 in_start_range=73432141974 in_end_range=73432141974
+17:06:33,426  INFO main offline.App:135 - Запись в rang введена № 11058 73432141974 73432141974 1
+17:06:33,432  INFO main offline.App:164 - Запись rang 11058добавлена к присоединению ID=405
+17:06:33,433  INFO main offline.App:109 - Вводится нумерация, строка файла 155 in_start_range=73432141975 in_end_range=73432141975
+17:06:33,472  INFO main offline.App:135 - Запись в rang введена № 11059 73432141975 73432141975 1
+17:06:33,477  INFO main offline.App:164 - Запись rang 11059добавлена к присоединению ID=405
+17:06:33,477  INFO main offline.App:109 - Вводится нумерация, строка файла 156 in_start_range=73432141977 in_end_range=73432141979
+17:06:33,514  INFO main offline.App:135 - Запись в rang введена № 11060 73432141977 73432141979 1
+17:06:33,518  INFO main offline.App:164 - Запись rang 11060добавлена к присоединению ID=405
+17:06:33,518  INFO main offline.App:109 - Вводится нумерация, строка файла 157 in_start_range=73432141983 in_end_range=73432141984
+17:06:33,566  INFO main offline.App:135 - Запись в rang введена № 11061 73432141983 73432141984 1
+17:06:33,570  INFO main offline.App:164 - Запись rang 11061добавлена к присоединению ID=405
+17:06:33,571  INFO main offline.App:109 - Вводится нумерация, строка файла 158 in_start_range=73432141986 in_end_range=73432141987
+17:06:33,610  INFO main offline.App:135 - Запись в rang введена № 11062 73432141986 73432141987 1
+17:06:33,614  INFO main offline.App:164 - Запись rang 11062добавлена к присоединению ID=405
+17:06:33,615  INFO main offline.App:109 - Вводится нумерация, строка файла 159 in_start_range=73432141996 in_end_range=73432141997
+17:06:33,650  INFO main offline.App:135 - Запись в rang введена № 11063 73432141996 73432141997 1
+17:06:33,655  INFO main offline.App:164 - Запись rang 11063добавлена к присоединению ID=405
+17:06:33,655  INFO main offline.App:109 - Вводится нумерация, строка файла 160 in_start_range=73432141998 in_end_range=73432141998
+17:06:34,127  INFO main offline.App:135 - Запись в rang введена № 11064 73432141998 73432141998 1
+17:06:34,133  INFO main offline.App:164 - Запись rang 11064добавлена к присоединению ID=405
+17:06:34,133  INFO main offline.App:109 - Вводится нумерация, строка файла 161 in_start_range=73432142000 in_end_range=73432142000
+17:06:34,169  INFO main offline.App:135 - Запись в rang введена № 11065 73432142000 73432142000 1
+17:06:34,173  INFO main offline.App:164 - Запись rang 11065добавлена к присоединению ID=405
+17:06:34,173  INFO main offline.App:109 - Вводится нумерация, строка файла 162 in_start_range=73432142003 in_end_range=73432142004
+17:06:34,207  INFO main offline.App:135 - Запись в rang введена № 11066 73432142003 73432142004 1
+17:06:34,211  INFO main offline.App:164 - Запись rang 11066добавлена к присоединению ID=405
+17:06:34,211  INFO main offline.App:109 - Вводится нумерация, строка файла 163 in_start_range=73432142008 in_end_range=73432142008
+17:06:34,245  INFO main offline.App:135 - Запись в rang введена № 11067 73432142008 73432142008 1
+17:06:34,250  INFO main offline.App:164 - Запись rang 11067добавлена к присоединению ID=405
+17:06:34,250  INFO main offline.App:109 - Вводится нумерация, строка файла 164 in_start_range=73432142011 in_end_range=73432142011
+17:06:34,285  INFO main offline.App:135 - Запись в rang введена № 11068 73432142011 73432142011 1
+17:06:34,290  INFO main offline.App:164 - Запись rang 11068добавлена к присоединению ID=405
+17:06:34,290  INFO main offline.App:109 - Вводится нумерация, строка файла 165 in_start_range=73432142019 in_end_range=73432142019
+17:06:34,326  INFO main offline.App:135 - Запись в rang введена № 11069 73432142019 73432142019 1
+17:06:34,332  INFO main offline.App:164 - Запись rang 11069добавлена к присоединению ID=405
+17:06:34,332  INFO main offline.App:109 - Вводится нумерация, строка файла 166 in_start_range=73432142020 in_end_range=73432142020
+17:06:34,371  INFO main offline.App:135 - Запись в rang введена № 11070 73432142020 73432142020 1
+17:06:34,377  INFO main offline.App:164 - Запись rang 11070добавлена к присоединению ID=405
+17:06:34,377  INFO main offline.App:109 - Вводится нумерация, строка файла 167 in_start_range=73432142022 in_end_range=73432142022
+17:06:34,418  INFO main offline.App:135 - Запись в rang введена № 11071 73432142022 73432142022 1
+17:06:34,422  INFO main offline.App:164 - Запись rang 11071добавлена к присоединению ID=405
+17:06:34,423  INFO main offline.App:109 - Вводится нумерация, строка файла 168 in_start_range=73432142023 in_end_range=73432142026
+17:06:34,462  INFO main offline.App:135 - Запись в rang введена № 11072 73432142023 73432142026 1
+17:06:34,467  INFO main offline.App:164 - Запись rang 11072добавлена к присоединению ID=405
+17:06:34,467  INFO main offline.App:109 - Вводится нумерация, строка файла 169 in_start_range=73432142030 in_end_range=73432142030
+17:06:34,505  INFO main offline.App:135 - Запись в rang введена № 11073 73432142030 73432142030 1
+17:06:34,512  INFO main offline.App:164 - Запись rang 11073добавлена к присоединению ID=405
+17:06:34,512  INFO main offline.App:109 - Вводится нумерация, строка файла 170 in_start_range=73432142032 in_end_range=73432142032
+17:06:34,548  INFO main offline.App:135 - Запись в rang введена № 11074 73432142032 73432142032 1
+17:06:34,554  INFO main offline.App:164 - Запись rang 11074добавлена к присоединению ID=405
+17:06:34,554  INFO main offline.App:109 - Вводится нумерация, строка файла 171 in_start_range=73432142034 in_end_range=73432142036
+17:06:34,598  INFO main offline.App:135 - Запись в rang введена № 11075 73432142034 73432142036 1
+17:06:34,603  INFO main offline.App:164 - Запись rang 11075добавлена к присоединению ID=405
+17:06:34,603  INFO main offline.App:109 - Вводится нумерация, строка файла 172 in_start_range=73432142040 in_end_range=73432142040
+17:06:34,642  INFO main offline.App:135 - Запись в rang введена № 11076 73432142040 73432142040 1
+17:06:34,646  INFO main offline.App:164 - Запись rang 11076добавлена к присоединению ID=405
+17:06:34,647  INFO main offline.App:109 - Вводится нумерация, строка файла 173 in_start_range=73432142044 in_end_range=73432142044
+17:06:34,684  INFO main offline.App:135 - Запись в rang введена № 11077 73432142044 73432142044 1
+17:06:34,690  INFO main offline.App:164 - Запись rang 11077добавлена к присоединению ID=405
+17:06:34,690  INFO main offline.App:109 - Вводится нумерация, строка файла 174 in_start_range=73432142051 in_end_range=73432142051
+17:06:34,727  INFO main offline.App:135 - Запись в rang введена № 11078 73432142051 73432142051 1
+17:06:34,732  INFO main offline.App:164 - Запись rang 11078добавлена к присоединению ID=405
+17:06:34,732  INFO main offline.App:109 - Вводится нумерация, строка файла 175 in_start_range=73432142053 in_end_range=73432142053
+17:06:34,768  INFO main offline.App:135 - Запись в rang введена № 11079 73432142053 73432142053 1
+17:06:34,773  INFO main offline.App:164 - Запись rang 11079добавлена к присоединению ID=405
+17:06:34,773  INFO main offline.App:109 - Вводится нумерация, строка файла 176 in_start_range=73432142055 in_end_range=73432142058
+17:06:34,810  INFO main offline.App:135 - Запись в rang введена № 11080 73432142055 73432142058 1
+17:06:34,815  INFO main offline.App:164 - Запись rang 11080добавлена к присоединению ID=405
+17:06:34,815  INFO main offline.App:109 - Вводится нумерация, строка файла 177 in_start_range=73432142061 in_end_range=73432142064
+17:06:34,854  INFO main offline.App:135 - Запись в rang введена № 11081 73432142061 73432142064 1
+17:06:34,859  INFO main offline.App:164 - Запись rang 11081добавлена к присоединению ID=405
+17:06:34,859  INFO main offline.App:109 - Вводится нумерация, строка файла 178 in_start_range=73432142065 in_end_range=73432142065
+17:06:34,899  INFO main offline.App:135 - Запись в rang введена № 11082 73432142065 73432142065 1
+17:06:34,903  INFO main offline.App:164 - Запись rang 11082добавлена к присоединению ID=405
+17:06:34,903  INFO main offline.App:109 - Вводится нумерация, строка файла 179 in_start_range=73432142066 in_end_range=73432142069
+17:06:34,940  INFO main offline.App:135 - Запись в rang введена № 11083 73432142066 73432142069 1
+17:06:34,944  INFO main offline.App:164 - Запись rang 11083добавлена к присоединению ID=405
+17:06:34,944  INFO main offline.App:109 - Вводится нумерация, строка файла 180 in_start_range=73432142070 in_end_range=73432142070
+17:06:34,988  INFO main offline.App:135 - Запись в rang введена № 11084 73432142070 73432142070 1
+17:06:34,993  INFO main offline.App:164 - Запись rang 11084добавлена к присоединению ID=405
+17:06:34,993  INFO main offline.App:109 - Вводится нумерация, строка файла 181 in_start_range=73432142071 in_end_range=73432142071
+17:06:35,027  INFO main offline.App:135 - Запись в rang введена № 11085 73432142071 73432142071 1
+17:06:35,031  INFO main offline.App:164 - Запись rang 11085добавлена к присоединению ID=405
+17:06:35,031  INFO main offline.App:109 - Вводится нумерация, строка файла 182 in_start_range=73432142075 in_end_range=73432142075
+17:06:35,065  INFO main offline.App:135 - Запись в rang введена № 11086 73432142075 73432142075 1
+17:06:35,069  INFO main offline.App:164 - Запись rang 11086добавлена к присоединению ID=405
+17:06:35,069  INFO main offline.App:109 - Вводится нумерация, строка файла 183 in_start_range=73432142079 in_end_range=73432142079
+17:06:35,102  INFO main offline.App:135 - Запись в rang введена № 11087 73432142079 73432142079 1
+17:06:35,106  INFO main offline.App:164 - Запись rang 11087добавлена к присоединению ID=405
+17:06:35,106  INFO main offline.App:109 - Вводится нумерация, строка файла 184 in_start_range=73432142081 in_end_range=73432142081
+17:06:35,139  INFO main offline.App:135 - Запись в rang введена № 11088 73432142081 73432142081 1
+17:06:35,142  INFO main offline.App:164 - Запись rang 11088добавлена к присоединению ID=405
+17:06:35,143  INFO main offline.App:109 - Вводится нумерация, строка файла 185 in_start_range=73432142084 in_end_range=73432142087
+17:06:35,181  INFO main offline.App:135 - Запись в rang введена № 11089 73432142084 73432142087 1
+17:06:35,186  INFO main offline.App:164 - Запись rang 11089добавлена к присоединению ID=405
+17:06:35,186  INFO main offline.App:109 - Вводится нумерация, строка файла 186 in_start_range=73432142089 in_end_range=73432142090
+17:06:35,218  INFO main offline.App:135 - Запись в rang введена № 11090 73432142089 73432142090 1
+17:06:35,223  INFO main offline.App:164 - Запись rang 11090добавлена к присоединению ID=405
+17:06:35,223  INFO main offline.App:109 - Вводится нумерация, строка файла 187 in_start_range=73432142094 in_end_range=73432142094
+17:06:35,262  INFO main offline.App:135 - Запись в rang введена № 11091 73432142094 73432142094 1
+17:06:35,266  INFO main offline.App:164 - Запись rang 11091добавлена к присоединению ID=405
+17:06:35,266  INFO main offline.App:109 - Вводится нумерация, строка файла 188 in_start_range=73432142096 in_end_range=73432142103
+17:06:35,308  INFO main offline.App:135 - Запись в rang введена № 11092 73432142096 73432142103 1
+17:06:35,314  INFO main offline.App:164 - Запись rang 11092добавлена к присоединению ID=405
+17:06:35,314  INFO main offline.App:109 - Вводится нумерация, строка файла 189 in_start_range=73432142106 in_end_range=73432142106
+17:06:35,370  INFO main offline.App:135 - Запись в rang введена № 11093 73432142106 73432142106 1
+17:06:35,375  INFO main offline.App:164 - Запись rang 11093добавлена к присоединению ID=405
+17:06:35,375  INFO main offline.App:109 - Вводится нумерация, строка файла 190 in_start_range=73432142108 in_end_range=73432142110
+17:06:35,412  INFO main offline.App:135 - Запись в rang введена № 11094 73432142108 73432142110 1
+17:06:35,419  INFO main offline.App:164 - Запись rang 11094добавлена к присоединению ID=405
+17:06:35,419  INFO main offline.App:109 - Вводится нумерация, строка файла 191 in_start_range=73432142116 in_end_range=73432142119
+17:06:35,458  INFO main offline.App:135 - Запись в rang введена № 11095 73432142116 73432142119 1
+17:06:35,462  INFO main offline.App:164 - Запись rang 11095добавлена к присоединению ID=405
+17:06:35,462  INFO main offline.App:109 - Вводится нумерация, строка файла 192 in_start_range=73432142121 in_end_range=73432142121
+17:06:35,498  INFO main offline.App:135 - Запись в rang введена № 11096 73432142121 73432142121 1
+17:06:35,503  INFO main offline.App:164 - Запись rang 11096добавлена к присоединению ID=405
+17:06:35,503  INFO main offline.App:109 - Вводится нумерация, строка файла 193 in_start_range=73432142122 in_end_range=73432142123
+17:06:35,540  INFO main offline.App:135 - Запись в rang введена № 11097 73432142122 73432142123 1
+17:06:35,544  INFO main offline.App:164 - Запись rang 11097добавлена к присоединению ID=405
+17:06:35,544  INFO main offline.App:109 - Вводится нумерация, строка файла 194 in_start_range=73432142125 in_end_range=73432142126
+17:06:35,579  INFO main offline.App:135 - Запись в rang введена № 11098 73432142125 73432142126 1
+17:06:35,583  INFO main offline.App:164 - Запись rang 11098добавлена к присоединению ID=405
+17:06:35,584  INFO main offline.App:109 - Вводится нумерация, строка файла 195 in_start_range=73432142131 in_end_range=73432142131
+17:06:35,624  INFO main offline.App:135 - Запись в rang введена № 11099 73432142131 73432142131 1
+17:06:35,630  INFO main offline.App:164 - Запись rang 11099добавлена к присоединению ID=405
+17:06:35,630  INFO main offline.App:109 - Вводится нумерация, строка файла 196 in_start_range=73432142134 in_end_range=73432142134
+17:06:35,668  INFO main offline.App:135 - Запись в rang введена № 11100 73432142134 73432142134 1
+17:06:35,675  INFO main offline.App:164 - Запись rang 11100добавлена к присоединению ID=405
+17:06:35,675  INFO main offline.App:109 - Вводится нумерация, строка файла 197 in_start_range=73432142136 in_end_range=73432142136
+17:06:35,717  INFO main offline.App:135 - Запись в rang введена № 11101 73432142136 73432142136 1
+17:06:35,721  INFO main offline.App:164 - Запись rang 11101добавлена к присоединению ID=405
+17:06:35,721  INFO main offline.App:109 - Вводится нумерация, строка файла 198 in_start_range=73432142138 in_end_range=73432142138
+17:06:35,759  INFO main offline.App:135 - Запись в rang введена № 11102 73432142138 73432142138 1
+17:06:35,764  INFO main offline.App:164 - Запись rang 11102добавлена к присоединению ID=405
+17:06:35,764  INFO main offline.App:109 - Вводится нумерация, строка файла 199 in_start_range=73432142140 in_end_range=73432142143
+17:06:35,801  INFO main offline.App:135 - Запись в rang введена № 11103 73432142140 73432142143 1
+17:06:35,806  INFO main offline.App:164 - Запись rang 11103добавлена к присоединению ID=405
+17:06:35,806  INFO main offline.App:109 - Вводится нумерация, строка файла 200 in_start_range=73432142149 in_end_range=73432142149
+17:06:35,843  INFO main offline.App:135 - Запись в rang введена № 11104 73432142149 73432142149 1
+17:06:35,847  INFO main offline.App:164 - Запись rang 11104добавлена к присоединению ID=405
+17:06:35,848  INFO main offline.App:109 - Вводится нумерация, строка файла 201 in_start_range=73432142151 in_end_range=73432142155
+17:06:35,885  INFO main offline.App:135 - Запись в rang введена № 11105 73432142151 73432142155 1
+17:06:35,890  INFO main offline.App:164 - Запись rang 11105добавлена к присоединению ID=405
+17:06:35,890  INFO main offline.App:109 - Вводится нумерация, строка файла 202 in_start_range=73432142157 in_end_range=73432142157
+17:06:35,926  INFO main offline.App:135 - Запись в rang введена № 11106 73432142157 73432142157 1
+17:06:35,930  INFO main offline.App:164 - Запись rang 11106добавлена к присоединению ID=405
+17:06:35,931  INFO main offline.App:109 - Вводится нумерация, строка файла 203 in_start_range=73432142160 in_end_range=73432142160
+17:06:35,967  INFO main offline.App:135 - Запись в rang введена № 11107 73432142160 73432142160 1
+17:06:35,975  INFO main offline.App:164 - Запись rang 11107добавлена к присоединению ID=405
+17:06:35,975  INFO main offline.App:109 - Вводится нумерация, строка файла 204 in_start_range=73432142163 in_end_range=73432142163
+17:06:36,013  INFO main offline.App:135 - Запись в rang введена № 11108 73432142163 73432142163 1
+17:06:36,017  INFO main offline.App:164 - Запись rang 11108добавлена к присоединению ID=405
+17:06:36,018  INFO main offline.App:109 - Вводится нумерация, строка файла 205 in_start_range=73432142166 in_end_range=73432142166
+17:06:36,071  INFO main offline.App:135 - Запись в rang введена № 11109 73432142166 73432142166 1
+17:06:36,078  INFO main offline.App:164 - Запись rang 11109добавлена к присоединению ID=405
+17:06:36,078  INFO main offline.App:109 - Вводится нумерация, строка файла 206 in_start_range=73432142170 in_end_range=73432142170
+17:06:36,142  INFO main offline.App:135 - Запись в rang введена № 11110 73432142170 73432142170 1
+17:06:36,148  INFO main offline.App:164 - Запись rang 11110добавлена к присоединению ID=405
+17:06:36,148  INFO main offline.App:109 - Вводится нумерация, строка файла 207 in_start_range=73432142171 in_end_range=73432142173
+17:06:36,188  INFO main offline.App:135 - Запись в rang введена № 11111 73432142171 73432142173 1
+17:06:36,202  INFO main offline.App:164 - Запись rang 11111добавлена к присоединению ID=405
+17:06:36,202  INFO main offline.App:109 - Вводится нумерация, строка файла 208 in_start_range=73432142176 in_end_range=73432142176
+17:06:36,239  INFO main offline.App:135 - Запись в rang введена № 11112 73432142176 73432142176 1
+17:06:36,246  INFO main offline.App:164 - Запись rang 11112добавлена к присоединению ID=405
+17:06:36,246  INFO main offline.App:109 - Вводится нумерация, строка файла 209 in_start_range=73432142180 in_end_range=73432142183
+17:06:36,283  INFO main offline.App:135 - Запись в rang введена № 11113 73432142180 73432142183 1
+17:06:36,289  INFO main offline.App:164 - Запись rang 11113добавлена к присоединению ID=405
+17:06:36,290  INFO main offline.App:109 - Вводится нумерация, строка файла 210 in_start_range=73432142185 in_end_range=73432142186
+17:06:36,329  INFO main offline.App:135 - Запись в rang введена № 11114 73432142185 73432142186 1
+17:06:36,333  INFO main offline.App:164 - Запись rang 11114добавлена к присоединению ID=405
+17:06:36,333  INFO main offline.App:109 - Вводится нумерация, строка файла 211 in_start_range=73432142187 in_end_range=73432142187
+17:06:36,370  INFO main offline.App:135 - Запись в rang введена № 11115 73432142187 73432142187 1
+17:06:36,375  INFO main offline.App:164 - Запись rang 11115добавлена к присоединению ID=405
+17:06:36,376  INFO main offline.App:109 - Вводится нумерация, строка файла 212 in_start_range=73432142189 in_end_range=73432142190
+17:06:36,418  INFO main offline.App:135 - Запись в rang введена № 11116 73432142189 73432142190 1
+17:06:36,423  INFO main offline.App:164 - Запись rang 11116добавлена к присоединению ID=405
+17:06:36,424  INFO main offline.App:109 - Вводится нумерация, строка файла 213 in_start_range=73432142193 in_end_range=73432142193
+17:06:36,463  INFO main offline.App:135 - Запись в rang введена № 11117 73432142193 73432142193 1
+17:06:36,469  INFO main offline.App:164 - Запись rang 11117добавлена к присоединению ID=405
+17:06:36,469  INFO main offline.App:109 - Вводится нумерация, строка файла 214 in_start_range=73432142194 in_end_range=73432142194
+17:06:36,505  INFO main offline.App:135 - Запись в rang введена № 11118 73432142194 73432142194 1
+17:06:36,510  INFO main offline.App:164 - Запись rang 11118добавлена к присоединению ID=405
+17:06:36,510  INFO main offline.App:109 - Вводится нумерация, строка файла 215 in_start_range=73432142197 in_end_range=73432142198
+17:06:36,549  INFO main offline.App:135 - Запись в rang введена № 11119 73432142197 73432142198 1
+17:06:36,554  INFO main offline.App:164 - Запись rang 11119добавлена к присоединению ID=405
+17:06:36,554  INFO main offline.App:109 - Вводится нумерация, строка файла 216 in_start_range=73432142203 in_end_range=73432142203
+17:06:36,593  INFO main offline.App:135 - Запись в rang введена № 11120 73432142203 73432142203 1
+17:06:36,598  INFO main offline.App:164 - Запись rang 11120добавлена к присоединению ID=405
+17:06:36,598  INFO main offline.App:109 - Вводится нумерация, строка файла 217 in_start_range=73432142207 in_end_range=73432142207
+17:06:36,636  INFO main offline.App:135 - Запись в rang введена № 11121 73432142207 73432142207 1
+17:06:36,641  INFO main offline.App:164 - Запись rang 11121добавлена к присоединению ID=405
+17:06:36,642  INFO main offline.App:109 - Вводится нумерация, строка файла 218 in_start_range=73432142210 in_end_range=73432142210
+17:06:36,680  INFO main offline.App:135 - Запись в rang введена № 11122 73432142210 73432142210 1
+17:06:36,686  INFO main offline.App:164 - Запись rang 11122добавлена к присоединению ID=405
+17:06:36,686  INFO main offline.App:109 - Вводится нумерация, строка файла 219 in_start_range=73432142212 in_end_range=73432142213
+17:06:36,725  INFO main offline.App:135 - Запись в rang введена № 11123 73432142212 73432142213 1
+17:06:36,730  INFO main offline.App:164 - Запись rang 11123добавлена к присоединению ID=405
+17:06:36,730  INFO main offline.App:109 - Вводится нумерация, строка файла 220 in_start_range=73432142215 in_end_range=73432142216
+17:06:36,767  INFO main offline.App:135 - Запись в rang введена № 11124 73432142215 73432142216 1
+17:06:36,771  INFO main offline.App:164 - Запись rang 11124добавлена к присоединению ID=405
+17:06:36,771  INFO main offline.App:109 - Вводится нумерация, строка файла 221 in_start_range=73432142217 in_end_range=73432142217
+17:06:36,810  INFO main offline.App:135 - Запись в rang введена № 11125 73432142217 73432142217 1
+17:06:36,815  INFO main offline.App:164 - Запись rang 11125добавлена к присоединению ID=405
+17:06:36,815  INFO main offline.App:109 - Вводится нумерация, строка файла 222 in_start_range=73432142219 in_end_range=73432142220
+17:06:36,853  INFO main offline.App:135 - Запись в rang введена № 11126 73432142219 73432142220 1
+17:06:36,858  INFO main offline.App:164 - Запись rang 11126добавлена к присоединению ID=405
+17:06:36,858  INFO main offline.App:109 - Вводится нумерация, строка файла 223 in_start_range=73432142221 in_end_range=73432142221
+17:06:36,894  INFO main offline.App:135 - Запись в rang введена № 11127 73432142221 73432142221 1
+17:06:36,899  INFO main offline.App:164 - Запись rang 11127добавлена к присоединению ID=405
+17:06:36,899  INFO main offline.App:109 - Вводится нумерация, строка файла 224 in_start_range=73432142224 in_end_range=73432142224
+17:06:36,935  INFO main offline.App:135 - Запись в rang введена № 11128 73432142224 73432142224 1
+17:06:36,939  INFO main offline.App:164 - Запись rang 11128добавлена к присоединению ID=405
+17:06:36,939  INFO main offline.App:109 - Вводится нумерация, строка файла 225 in_start_range=73432142227 in_end_range=73432142227
+17:06:36,977  INFO main offline.App:135 - Запись в rang введена № 11129 73432142227 73432142227 1
+17:06:36,982  INFO main offline.App:164 - Запись rang 11129добавлена к присоединению ID=405
+17:06:36,982  INFO main offline.App:109 - Вводится нумерация, строка файла 226 in_start_range=73432142228 in_end_range=73432142228
+17:06:37,020  INFO main offline.App:135 - Запись в rang введена № 11130 73432142228 73432142228 1
+17:06:37,025  INFO main offline.App:164 - Запись rang 11130добавлена к присоединению ID=405
+17:06:37,025  INFO main offline.App:109 - Вводится нумерация, строка файла 227 in_start_range=73432142233 in_end_range=73432142236
+17:06:37,067  INFO main offline.App:135 - Запись в rang введена № 11131 73432142233 73432142236 1
+17:06:37,072  INFO main offline.App:164 - Запись rang 11131добавлена к присоединению ID=405
+17:06:37,072  INFO main offline.App:109 - Вводится нумерация, строка файла 228 in_start_range=73432142238 in_end_range=73432142238
+17:06:37,109  INFO main offline.App:135 - Запись в rang введена № 11132 73432142238 73432142238 1
+17:06:37,113  INFO main offline.App:164 - Запись rang 11132добавлена к присоединению ID=405
+17:06:37,113  INFO main offline.App:109 - Вводится нумерация, строка файла 229 in_start_range=73432142240 in_end_range=73432142240
+17:06:37,150  INFO main offline.App:135 - Запись в rang введена № 11133 73432142240 73432142240 1
+17:06:37,154  INFO main offline.App:164 - Запись rang 11133добавлена к присоединению ID=405
+17:06:37,154  INFO main offline.App:109 - Вводится нумерация, строка файла 230 in_start_range=73432142241 in_end_range=73432142241
+17:06:37,192  INFO main offline.App:135 - Запись в rang введена № 11134 73432142241 73432142241 1
+17:06:37,198  INFO main offline.App:164 - Запись rang 11134добавлена к присоединению ID=405
+17:06:37,198  INFO main offline.App:109 - Вводится нумерация, строка файла 231 in_start_range=73432142243 in_end_range=73432142245
+17:06:37,250  INFO main offline.App:135 - Запись в rang введена № 11135 73432142243 73432142245 1
+17:06:37,262  INFO main offline.App:164 - Запись rang 11135добавлена к присоединению ID=405
+17:06:37,263  INFO main offline.App:109 - Вводится нумерация, строка файла 232 in_start_range=73432142246 in_end_range=73432142247
+17:06:37,300  INFO main offline.App:135 - Запись в rang введена № 11136 73432142246 73432142247 1
+17:06:37,304  INFO main offline.App:164 - Запись rang 11136добавлена к присоединению ID=405
+17:06:37,304  INFO main offline.App:109 - Вводится нумерация, строка файла 233 in_start_range=73432142248 in_end_range=73432142250
+17:06:37,345  INFO main offline.App:135 - Запись в rang введена № 11137 73432142248 73432142250 1
+17:06:37,352  INFO main offline.App:164 - Запись rang 11137добавлена к присоединению ID=405
+17:06:37,352  INFO main offline.App:109 - Вводится нумерация, строка файла 234 in_start_range=73432142254 in_end_range=73432142254
+17:06:37,392  INFO main offline.App:135 - Запись в rang введена № 11138 73432142254 73432142254 1
+17:06:37,397  INFO main offline.App:164 - Запись rang 11138добавлена к присоединению ID=405
+17:06:37,397  INFO main offline.App:109 - Вводится нумерация, строка файла 235 in_start_range=73432142256 in_end_range=73432142256
+17:06:37,437  INFO main offline.App:135 - Запись в rang введена № 11139 73432142256 73432142256 1
+17:06:37,442  INFO main offline.App:164 - Запись rang 11139добавлена к присоединению ID=405
+17:06:37,442  INFO main offline.App:109 - Вводится нумерация, строка файла 236 in_start_range=73432142257 in_end_range=73432142257
+17:06:37,482  INFO main offline.App:135 - Запись в rang введена № 11140 73432142257 73432142257 1
+17:06:37,489  INFO main offline.App:164 - Запись rang 11140добавлена к присоединению ID=405
+17:06:37,489  INFO main offline.App:109 - Вводится нумерация, строка файла 237 in_start_range=73432142260 in_end_range=73432142261
+17:06:37,523  INFO main offline.App:135 - Запись в rang введена № 11141 73432142260 73432142261 1
+17:06:37,528  INFO main offline.App:164 - Запись rang 11141добавлена к присоединению ID=405
+17:06:37,528  INFO main offline.App:109 - Вводится нумерация, строка файла 238 in_start_range=73432142263 in_end_range=73432142263
+17:06:37,564  INFO main offline.App:135 - Запись в rang введена № 11142 73432142263 73432142263 1
+17:06:37,569  INFO main offline.App:164 - Запись rang 11142добавлена к присоединению ID=405
+17:06:37,569  INFO main offline.App:109 - Вводится нумерация, строка файла 239 in_start_range=73432142268 in_end_range=73432142268
+17:06:37,607  INFO main offline.App:135 - Запись в rang введена № 11143 73432142268 73432142268 1
+17:06:37,612  INFO main offline.App:164 - Запись rang 11143добавлена к присоединению ID=405
+17:06:37,612  INFO main offline.App:109 - Вводится нумерация, строка файла 240 in_start_range=73432142272 in_end_range=73432142272
+17:06:37,648  INFO main offline.App:135 - Запись в rang введена № 11144 73432142272 73432142272 1
+17:06:37,654  INFO main offline.App:164 - Запись rang 11144добавлена к присоединению ID=405
+17:06:37,655  INFO main offline.App:109 - Вводится нумерация, строка файла 241 in_start_range=73432142274 in_end_range=73432142275
+17:06:37,702  INFO main offline.App:135 - Запись в rang введена № 11145 73432142274 73432142275 1
+17:06:37,710  INFO main offline.App:164 - Запись rang 11145добавлена к присоединению ID=405
+17:06:37,710  INFO main offline.App:109 - Вводится нумерация, строка файла 242 in_start_range=73432142276 in_end_range=73432142276
+17:06:37,752  INFO main offline.App:135 - Запись в rang введена № 11146 73432142276 73432142276 1
+17:06:37,756  INFO main offline.App:164 - Запись rang 11146добавлена к присоединению ID=405
+17:06:37,757  INFO main offline.App:109 - Вводится нумерация, строка файла 243 in_start_range=73432142278 in_end_range=73432142280
+17:06:37,795  INFO main offline.App:135 - Запись в rang введена № 11147 73432142278 73432142280 1
+17:06:37,800  INFO main offline.App:164 - Запись rang 11147добавлена к присоединению ID=405
+17:06:37,800  INFO main offline.App:109 - Вводится нумерация, строка файла 244 in_start_range=73432142282 in_end_range=73432142282
+17:06:37,836  INFO main offline.App:135 - Запись в rang введена № 11148 73432142282 73432142282 1
+17:06:37,841  INFO main offline.App:164 - Запись rang 11148добавлена к присоединению ID=405
+17:06:37,841  INFO main offline.App:109 - Вводится нумерация, строка файла 245 in_start_range=73432142284 in_end_range=73432142284
+17:06:37,881  INFO main offline.App:135 - Запись в rang введена № 11149 73432142284 73432142284 1
+17:06:37,886  INFO main offline.App:164 - Запись rang 11149добавлена к присоединению ID=405
+17:06:37,886  INFO main offline.App:109 - Вводится нумерация, строка файла 246 in_start_range=73432142287 in_end_range=73432142287
+17:06:37,925  INFO main offline.App:135 - Запись в rang введена № 11150 73432142287 73432142287 1
+17:06:37,929  INFO main offline.App:164 - Запись rang 11150добавлена к присоединению ID=405
+17:06:37,929  INFO main offline.App:109 - Вводится нумерация, строка файла 247 in_start_range=73432142289 in_end_range=73432142289
+17:06:37,965  INFO main offline.App:135 - Запись в rang введена № 11151 73432142289 73432142289 1
+17:06:37,969  INFO main offline.App:164 - Запись rang 11151добавлена к присоединению ID=405
+17:06:37,970  INFO main offline.App:109 - Вводится нумерация, строка файла 248 in_start_range=73432142291 in_end_range=73432142292
+17:06:38,004  INFO main offline.App:135 - Запись в rang введена № 11152 73432142291 73432142292 1
+17:06:38,009  INFO main offline.App:164 - Запись rang 11152добавлена к присоединению ID=405
+17:06:38,009  INFO main offline.App:109 - Вводится нумерация, строка файла 249 in_start_range=73432142295 in_end_range=73432142296
+17:06:38,049  INFO main offline.App:135 - Запись в rang введена № 11153 73432142295 73432142296 1
+17:06:38,055  INFO main offline.App:164 - Запись rang 11153добавлена к присоединению ID=405
+17:06:38,055  INFO main offline.App:109 - Вводится нумерация, строка файла 250 in_start_range=73432142299 in_end_range=73432142299
+17:06:38,303  INFO main offline.App:135 - Запись в rang введена № 11154 73432142299 73432142299 1
+17:06:38,307  INFO main offline.App:164 - Запись rang 11154добавлена к присоединению ID=405

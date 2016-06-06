@@ -1,0 +1,41 @@
+update comm_operators_connections t
+set t.tax_comm_operators_connections_matrix = rpad('73422463000-73422463999; ',60000, '73422404000-73422405999; ')
+where t.id = 405
+
+/*
+select rpad('73422463000-73422463999; ',70000, '73422404000-73422405999; ') 
+*/
+select * from comm_operators_connections t
+where id=405
+
+/*
+update comm_operators_connections t
+set t.tax_comm_operators_connections_matrix = '1234567890-1234567890'
+where t.id = 405
+*/
+
+CREATE TABLE `comm_operators_range_test` (
+	`id` INT(11) NOT NULL AUTO_INCREMENT,
+	`start_range` BIGINT(20) NULL DEFAULT NULL,
+	`end_range` BIGINT(20) NULL DEFAULT NULL,
+	`tab_comm_operators_range_types` INT(11) NOT NULL DEFAULT '0',
+	PRIMARY KEY (`id`)
+)
+COLLATE='koi8r_general_ci'
+ENGINE=InnoDB
+AUTO_INCREMENT=10365;
+
+CREATE TABLE `comm_operators_connections_matrix_test` (
+	`id` INT(11) NOT NULL AUTO_INCREMENT,
+	`tab_comm_operators_connections` INT(11) NOT NULL DEFAULT '0',
+	`tab_comm_operators_range` INT(11) NOT NULL DEFAULT '0',
+	`dte_start_date` DATE NULL DEFAULT NULL,
+	`dte_end_date` DATE NULL DEFAULT NULL,
+	`tab_comm_operators_range_types` INT(11) NOT NULL DEFAULT '1',
+	`tag_comm_operators_connections_matrix_topology` INT(11) NOT NULL DEFAULT '1',
+	`flg_farop` CHAR(2) NULL DEFAULT NULL,
+	`gtg_comm_operators_connections_matrix_topology` INT(11) NOT NULL DEFAULT '1',
+	PRIMARY KEY (`id`)
+	)
+COLLATE='koi8r_general_ci'
+ENGINE=InnoDB;

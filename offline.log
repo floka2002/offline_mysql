@@ -1,0 +1,18 @@
+14:35:59,739  INFO main support.ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1d057a39: startup date [Fri Nov 27 14:35:59 YEKT 2015]; root of context hierarchy
+14:35:59,779  INFO main xml.XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [app-config.xml]
+14:36:00,019  INFO main support.PropertySourcesPlaceholderConfigurer:172 - Loading properties file from URL [file:C:/work/project/aro_number/config.properties]
+14:36:00,029  INFO main annotation.AutowiredAnnotationBeanPostProcessor:153 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+14:36:00,049  INFO main datasource.DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+14:36:00,099  INFO main offline.App:50 - Start programm in test mode
+14:36:00,099  INFO main offline.App:166 - Удаляется нумерация, строка файла 1 in_start_range=73432140001 in_end_range=73432140001
+14:36:00,439  INFO main offline.App:93 - Неверное число входных данных в строке 2:105,405,73432140004,73432140004,1,20151001,20991231,1,1
+14:36:00,439  INFO main offline.App:166 - Удаляется нумерация, строка файла 3 in_start_range=73432140005 in_end_range=73432140005
+14:36:00,539  INFO main offline.App:166 - Удаляется нумерация, строка файла 4 in_start_range=73432140008 in_end_range=73432140011
+14:36:00,649  INFO main offline.App:177 - Диапазона, соответствующего строке 4, не существует, присоединение ID=405:
+14:36:00,649  INFO main offline.App:166 - Удаляется нумерация, строка файла 5 in_start_range=73432140014 in_end_range=73432140016
+14:36:00,759  INFO main offline.App:166 - Удаляется нумерация, строка файла 6 in_start_range=73432140017 in_end_range=73432140017
+14:36:00,859  INFO main offline.App:166 - Удаляется нумерация, строка файла 7 in_start_range=73432140019 in_end_range=73432140019
+14:36:00,969  INFO main offline.App:166 - Удаляется нумерация, строка файла 8 in_start_range=73432140020 in_end_range=73432140020
+14:36:01,070  INFO main offline.App:166 - Удаляется нумерация, строка файла 9 in_start_range=73432140021 in_end_range=73432140023
+14:36:01,180  INFO main offline.App:166 - Удаляется нумерация, строка файла 10 in_start_range=73432140025 in_end_range=73432140026
+14:36:01,280  INFO main offline.App:93 - Неверное число входных данных в строке 11:
