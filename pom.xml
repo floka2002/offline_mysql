@@ -7,7 +7,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>offline</name>
+    <name>offline_mysql</name>
     <url>http://maven.apache.org</url>
     <!--
     <build>
