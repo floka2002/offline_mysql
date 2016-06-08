@@ -37,10 +37,13 @@ public class App {
     int count = 1;
 
     public static void main(String[] args) {
+        System.out.println(System.getProperty("java.class.path"));
+        
         ApplicationContext context
                 = new ClassPathXmlApplicationContext("app-config.xml");
         App app = (App) context.getBean("task");
         app.readIn();
+        
     }
 
     public void readIn() {

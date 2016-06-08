@@ -3,30 +3,39 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.floka</groupId>
   <artifactId>aro_number</artifactId>
-  <name>offline</name>
+  <name>offline_mysql</name>
   <version>1.0</version>
   <url>http://maven.apache.org</url>
   <build>
     <plugins>
       <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+          <source>1.6</source>
+          <target>1.6</target>
+        </configuration>
+      </plugin>
+      <plugin>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>3.0.0</version>
+        <configuration>
+          <archive>
+            <manifest>
+              <addClasspath>true</addClasspath>
+              <mainClass>com.floka.offline.App</mainClass>
+            </manifest>
+          </archive>
+        </configuration>
+      </plugin>
+      <plugin>
         <artifactId>maven-shade-plugin</artifactId>
-        <version>2.4.2</version>
+        <version>2.4.3</version>
         <executions>
           <execution>
             <phase>package</phase>
             <goals>
               <goal>shade</goal>
             </goals>
-            <configuration>
-              <transformers>
-                <transformer>
-                  <manifestEntries>
-                    <Main-Class>com.floka.offline.App</Main-Class>
-                    <Build-Number>123</Build-Number>
-                  </manifestEntries>
-                </transformer>
-              </transformers>
-            </configuration>
           </execution>
         </executions>
       </plugin>
